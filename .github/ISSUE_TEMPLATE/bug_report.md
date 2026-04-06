@@ -40,7 +40,7 @@ If applicable, paste the full error message including stack trace.
 - OS: [e.g. macOS, Windows, Linux]
 - Node.js version: [e.g. 18.0.0]
 - Typescript version: [e.g. 5.0.0]
-- todotxt-ts version: [e.g. 1.0.0]
+- txtodo-cli version: [e.g. 1.0.0]
 
 **Additional context**  
 Add any other context about the problem here.
