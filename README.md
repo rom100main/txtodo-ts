@@ -2,6 +2,8 @@
 
 A TypeScript todo.txt parser/serializer with utils funcion, extension support and subtask handling.
 
+A Rust version is available at [txtodo-rs](https://github.com/rom100main/txtodo-rs).
+
 ## Features
 
 - Parse and serialize todo.txt format (priorities, dates, projects, contexts)
